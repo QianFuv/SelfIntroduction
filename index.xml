@@ -2,10 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>浅风的名片页</title>
-    <link>https://QianF.fun/</link>
+    <link>https://www.qianf.fun/</link>
     <description>Recent content on 浅风的名片页</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh_cn</language>
-    <copyright>[晋ICP备2024032338号](http://beian.miit.gov.cn/)</copyright><atom:link href="https://QianF.fun/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh_cn</language><atom:link href="https://www.qianf.fun/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
