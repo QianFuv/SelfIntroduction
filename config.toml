@@ -7,6 +7,7 @@ copyright = "[晋ICP备2025071312号](http://beian.miit.gov.cn/)"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+theme = "lynx"
 
 [params.author]
   name = "浅风"
@@ -56,7 +57,3 @@ disableKinds = ["taxonomy", "term"]
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
   ]
-
-[module]
-  [module.hugoVersion]
-    extended = false
