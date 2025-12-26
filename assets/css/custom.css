@@ -1,0 +1,33 @@
+.icon svg {
+  height: 2em;
+  width: 2em;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+}
+
+.h-screen {
+  background-image: url("https://vip2.loli.io/2023/02/24/Qk6hFY2K4PfmOH8.png") !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.text-xl {
+  color: aliceblue;
+  text-shadow: black 1.5px 0 5px;
+}
+
+.text-4xl {
+  color: aliceblue;
+  text-shadow: black 1.5px 0 5px;
+}
+
+body > footer > div > p.text-sm.text-neutral-500.dark\:text-neutral-400 {
+  color: white;
+}
