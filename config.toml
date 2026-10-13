@@ -3,7 +3,6 @@ languageCode = "zh_cn"
 defaultContentLanguage = "zh_cn"
 
 title = "浅风的名片页"
-copyright = "[晋ICP备2025071312号](http://beian.miit.gov.cn/)"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
